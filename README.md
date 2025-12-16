@@ -204,4 +204,5 @@ WSL2에서 Linux 환경을 사용해보는 것과, 내가 만든 코드가 Docke
 
 프로그램 기능을 좀 더 확장하거나, Dockerfile을 더 경량화해 효율적인 이미지를 만드는 작업을 시도해보고 싶다.
 
+오류류
 >>>>>>> 88b80e9 (docs: finalize README for submission)
